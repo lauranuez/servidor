@@ -2,10 +2,6 @@ package edu.upc.dsa.services;
 
 
 import edu.upc.dsa.Classes.Product;
-import edu.upc.dsa.Classes.User;
-import edu.upc.dsa.Classes.Order;
-import edu.upc.dsa.ProductManager;
-import edu.upc.dsa.ProductManagerimpl;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
 import io.swagger.annotations.ApiResponse;

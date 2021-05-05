@@ -1,7 +1,5 @@
 package edu.upc.dsa.services;
 
-import edu.upc.dsa.Classes.ObjectGame;
-import edu.upc.dsa.Classes.UserGame;
 import edu.upc.dsa.GameManager;
 import edu.upc.dsa.GameManagerImpl;
 import io.swagger.annotations.Api;

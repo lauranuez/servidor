@@ -1,8 +1,5 @@
 package edu.upc.dsa;
 
-import edu.upc.dsa.Classes.ObjectGame;
-import edu.upc.dsa.Classes.User;
-import edu.upc.dsa.Classes.UserGame;
 import org.apache.log4j.Logger;
 
 import java.util.*;

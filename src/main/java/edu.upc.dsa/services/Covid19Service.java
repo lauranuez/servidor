@@ -2,8 +2,6 @@ package edu.upc.dsa.services;
 
 
 import edu.upc.dsa.Classes.*;
-import edu.upc.dsa.Covid19Manager;
-import edu.upc.dsa.Covid19ManagerImp;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
 import io.swagger.annotations.ApiResponse;
